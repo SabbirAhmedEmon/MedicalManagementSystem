@@ -1,0 +1,25 @@
+B:\asp.net\batch11\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.dll
+B:\asp.net\batch11\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.pdb
+B:\asp.net\batch11\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.dll
+B:\asp.net\batch11\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.pdb
+B:\asp.net\batch11\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.csprojResolveAssemblyReference.cache
+B:\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.dll
+B:\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.pdb
+B:\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.csprojResolveAssemblyReference.cache
+B:\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.dll
+B:\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.pdb
+C:\Users\sabbir ahmed emon\Desktop\FOR PROJECT\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.dll
+C:\Users\sabbir ahmed emon\Desktop\FOR PROJECT\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.pdb
+C:\Users\sabbir ahmed emon\Desktop\FOR PROJECT\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.csprojResolveAssemblyReference.cache
+C:\Users\sabbir ahmed emon\Desktop\FOR PROJECT\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.dll
+C:\Users\sabbir ahmed emon\Desktop\FOR PROJECT\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.pdb
+C:\Users\sabbir ahmed emon\Desktop\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.dll
+C:\Users\sabbir ahmed emon\Desktop\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.pdb
+C:\Users\sabbir ahmed emon\Desktop\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.csprojResolveAssemblyReference.cache
+C:\Users\sabbir ahmed emon\Desktop\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.dll
+C:\Users\sabbir ahmed emon\Desktop\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.pdb
+E:\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.dll
+E:\DocktorPasaintProject\DocktorPasaintProject\bin\DocktorPasaintProject.pdb
+E:\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.csprojResolveAssemblyReference.cache
+E:\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.dll
+E:\DocktorPasaintProject\DocktorPasaintProject\obj\Debug\DocktorPasaintProject.pdb
